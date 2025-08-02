@@ -4,7 +4,6 @@
  */
 package sistemareserva;
 
-/
 import vista.VentanaPrincipal;
 
 public class App {
